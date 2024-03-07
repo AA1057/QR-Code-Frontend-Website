@@ -61,3 +61,13 @@ body {
     text-align: center;
     padding-top: 15px;
 }
+
+@media screen {
+    .container {
+        top: 50px;
+    }
+
+    .attribution {
+        top: 50px;
+    }
+}
